@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="message">Waiting to send message</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
